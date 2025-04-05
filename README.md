@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/psanto-sas/psanto-sas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Santy21g/Santy21g/output/snake.svg" alt="Snake animation" />
 
 ###
