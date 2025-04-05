@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRmeTUyd2wyZDdqYTZpdzJqN29wNjFpZWpyZ2l5c2N0Z3dqbzY4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
 ###
